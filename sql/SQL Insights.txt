@@ -1,0 +1,33 @@
+SQL Insights
+
+Which market generates the highest revenue?
+
+The APAC market generates the highest revenue with total sales of 3575925, making it the strongest-performing market.
+
+Which category is the least profitable?
+
+The Office Suplies category has the lowest average/total profit, indicating lower profitability compared to the other categories.
+
+Which shipping mode is most commonly used?
+
+Standard Class is the most frequently used shipping mode, showing that it is the preferred delivery option for most orders.
+
+Which region has the highest sales?
+
+The Central region records the highest total sales, contributing significantly to the company's overall revenue.
+
+Which customer contributes the highest sales?
+
+Tom Ashbrook is the highest-value customer based on total sales.
+
+Which product generates the highest profit?
+
+Canon imageCLASS 2200 Advanced Copier is the most profitable product with a total profit of 25199.94.
+
+Which sub-category performs the best?
+
+The Phones sub-category generates the highest sales, making it the best-performing product segment.
+
+How does monthly sales perform?
+
+Sales show an increasing
