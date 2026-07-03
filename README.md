@@ -30,12 +30,12 @@ A retail sales analytics project built using Excel, PostgreSQL, SQL, and Power B
 - Sales Analysis
 - Product & Customer Insights
 
-## Key Insights
-- Highest revenue market
-- Top customers
-- Best-selling products
-- Monthly sales trends
-
+## Business Insights
+- Central region generated the highest revenue.
+- Consumer segment contributed over 50% of total sales.
+- Technology category produced the highest sales.
+- Standard Class was the most frequently used shipping mode.
+- Sales showed an upward trend from 2011 to 2014.
 ## Dashboard Preview
 
 ### Executive Overview
