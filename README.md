@@ -15,6 +15,15 @@ A retail sales analytics project built using Excel, PostgreSQL, SQL, and Power B
 - Interactive Power BI Dashboard
 - Sales & Profit Analysis
 - Customer Insights
+- 
+## SQL Queries
+
+- Top 10 Customers
+- Region-wise Sales
+- Monthly Sales Trend
+- Profit by Category
+- Market-wise Revenue
+- Ship Mode Analysis
 
 ## Dashboard Pages
 - Executive Overview
