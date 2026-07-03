@@ -28,4 +28,6 @@ A retail sales analytics project built using Excel, PostgreSQL, SQL, and Power B
 - Monthly sales trends
 
 ## Screenshots
-(Add your dashboard images here)
+https://github.com/pranjal3007/Ecommerce_Dashboard_Analysis/blob/main/screenshot/page1.png
+https://github.com/pranjal3007/Ecommerce_Dashboard_Analysis/blob/main/screenshot/page2.png
+https://github.com/pranjal3007/Ecommerce_Dashboard_Analysis/blob/main/screenshot/page3.png
